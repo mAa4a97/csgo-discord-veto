@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-var activeMaps = ['vertigo', 'dust2', 'inferno', 'mirage', 'nuke', 'overpass', 'train'];
+var activeMaps = ['vertigo', 'ancient', 'inferno', 'mirage', 'nuke', 'overpass', 'anubis'];
 var allMaps = ['cache', 'cobble', 'inferno', 'mirage', 'nuke', 'overpass', 'train', 'vertigo', 'dust2', 'canals', 'zoo', 'biome', 'abbey'];
 var jbmevidroTournamentMaps = ['2towers', 'caribbean_dolnma', 'crashz_dust_v2', 'desert2', 'dust2', 'grass2','nuke2020', 'poolparty', 'ramps_lego', 'redline'];
 var pickSide = ['heads', 'tails'];
